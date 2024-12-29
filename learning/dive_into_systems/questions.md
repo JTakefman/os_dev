@@ -1,5 +1,6 @@
 = Questions
 :stylesheet: test.css
+:stylesdir: .
 {empty} +
 
 == Dec 28th, 2024:
@@ -8,7 +9,7 @@
 
 === A: Both
 
-[literal]
+[.indent]
 Provided via the `<stdint.h>` header but also constructed in and for specific contexts ie. embedded libraries and so on.
 
 another paragraph
